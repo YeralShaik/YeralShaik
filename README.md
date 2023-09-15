@@ -1,6 +1,6 @@
 👋 Hi, Welcome!
 
-I’m UI Designer, almost Fronted Developer, currently learning javascript, react and english. 
+
 
 
 <!---
