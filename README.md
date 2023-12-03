@@ -1,4 +1,6 @@
-👋 Hi, Welcome!
+👋Welcome,
+
+I'm Frontend Developer / UI Designer  #JavaScript #HTML  #CSS 
 
 
 
