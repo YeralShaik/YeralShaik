@@ -5,7 +5,7 @@ Soy una mente creativa y autodidacta que encuentra su pasión en el proceso de a
 
 ### Experiencia
 - Desarrollador Frontend en formación 🚀
-- Diseñador UI aspirante 💡
+- Diseñador UI 💡
 
 ### Habilidades
 - Desarrollo Frontend: HTML, CSS, JavaScript
