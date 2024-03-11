@@ -1,14 +1,7 @@
 ## ¡Hola, soy Yeraldin Espinosa Shaik! 👋
 
-### Sobre mí
-Soy una mente creativa y autodidacta que encuentra su pasión en el proceso de aprendizaje constante y la creación. Mi mundo gira en torno a la exploración de nuevas ideas y el placer de construir cosas desde cero.
-
-### Experiencia
-- Desarrollador Frontend en formación 🚀
-- Diseñador UI 💡
-
 ### Habilidades
-- Desarrollo Frontend: HTML, CSS, JavaScript
+- Desarrollo Frontend: HTML, CSS, JavaScript, React
 - Diseño UI: Adobe XD, Figma
 - Siempre en búsqueda de nuevas tecnologías 💻
 
