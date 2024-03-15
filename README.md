@@ -12,6 +12,6 @@ Mi objetivo es crear un impacto positivo a través del diseño y la programació
 
 ### ¡Conéctate conmigo!
 - ![alt text](/linkedin%20(1).png)(https://www.linkedin.com/in/yeraldinespinosa/)
-
+<p>Este es un ejemplo de texto donde <span style="color: #ff00ff;">lindink</span> tiene un color especial.</p>
 
 ¡Gracias por explorar mi perfil! Estoy ansioso por conectar con personas apasionadas por la creatividad y el desarrollo. 🌟
