@@ -1,5 +1,5 @@
-## ¡Hola, soy Yeraldin Espinosa Shaik! 👋
-# 💫 
+
+# 💫 ## ¡Hola, soy Yeraldin Espinosa Shaik! 👋
 <br>Desarrollo Frontend: HTML, CSS, JavaScript, React<br>Diseño UI: Adobe XD, Figma<br>Siempre en búsqueda de nuevas tecnologías 💻<br>
 
 ### Objetivos
