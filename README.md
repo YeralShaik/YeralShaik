@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Panamá
-* 🖥️  See my portfolio at [My Portfolio](http://https://yeraldinespinosa.netlify.app/)
+* 🖥️  See my portfolio at [Portfolio](http://https://yeraldinespinosa.netlify.app/)
 * ✉️  You can contact me at [yeraldinshaik@gmail.com](mailto:yeraldinshaik@gmail.com)
 * 🧠  I'm learning React
 
